@@ -6,4 +6,6 @@ I'm currently pursuing a PH.D at the School of Artificial Intelligence and Autom
 <code>huangrk@hust.edu.cn</code>  
 
 #### Education  
+
+**Huazhong University of Science and Technology**, PH.D Student (2022 – now)  
 **Lanzhou University**, Master (2019 – 2022)  
